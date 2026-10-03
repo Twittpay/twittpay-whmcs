@@ -1,0 +1,26 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "twittpay",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "TwittPay",
+        "tagline": "Automatic bKash, Nagad, Rocket & bank transfer payments with SMS verification",
+        "long": "Accept bKash, Nagad, Rocket, and bank transfer payments across Bangladesh with automatic SMS-based verification, alongside Binance Personal and Cryptomus for international and crypto payments."
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https://twittpay.com",
+        "docs_url": "https://twittpay.com/documentation",
+        "email": "support@twittpay.com"
+    },
+    "authors": [
+        {
+            "name": "My World",
+            "homepage": "https://twittpay.com"
+        }
+    ]
+}
